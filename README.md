@@ -175,8 +175,8 @@ Este proyecto es educativo y está disponible para uso libre.
 
 ## Autor
 
-Diego Herrera Gonzalez 24110202
-Sahid Uriel Lopez Salazar 24110183
+-Diego Herrera Gonzalez 24110202
+-Sahid Uriel Lopez Salazar 24110183
 
 ## Agradecimientos
 
