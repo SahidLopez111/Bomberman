@@ -175,7 +175,8 @@ Este proyecto es educativo y está disponible para uso libre.
 
 ## Autor
 
-Desarrollado como proyecto de aprendizaje de C++ y SFML.
+Diego Herrera Gonzalez 24110202
+Sahid Uriel Lopez Salazar 24110183
 
 ## Agradecimientos
 
