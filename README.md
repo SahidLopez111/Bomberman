@@ -1,10 +1,10 @@
-# Bomberman Game
+# Circle Detonation
 
-Un juego Bomberman clásico implementado en C++ usando la librería SFML.
+Un juego inspirado en Bomberman clásico implementado en C++ usando la librería SFML.
 
 ## Descripción
 
-Este es un juego Bomberman donde el jugador puede moverse por un mapa, colocar bombas y destruir bloques. El objetivo es evitar las explosiones mientras destruyes los bloques del mapa.
+Este es un juego donde el jugador puede moverse por un mapa, colocar bombas y destruir bloques. El objetivo es evitar las explosiones mientras destruyes los bloques del mapa.
 
 ## Características
 
@@ -175,8 +175,8 @@ Este proyecto es educativo y está disponible para uso libre.
 
 ## Autor
 
--Diego Herrera Gonzalez 24110202
--Sahid Uriel Lopez Salazar 24110183
+- Diego Herrera Gonzalez 24110202
+- Sahid Uriel Lopez Salazar 24110183
 
 ## Agradecimientos
 
